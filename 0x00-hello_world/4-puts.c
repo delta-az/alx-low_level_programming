@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - Programming is like building a multilingual puzzle
  *
- * Retun: Always 0 (success)
+ * Return: Always 0 (success)
  */
-void main()
+int main(void)
 {
-  puts("Programming is like building a multilingual puzzle ");
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
