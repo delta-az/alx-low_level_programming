@@ -6,10 +6,10 @@
 
 void more_numbers(void)
 {
-	int l;
+	int k;
 	char i;
 
-	for (l = 1 ; l <= 10 ; l++)
+	for (k = 1 ; k <= 10 ; k++)
 	{
 		for (i = 0 ; i <= 14 ; i++)
 		{
